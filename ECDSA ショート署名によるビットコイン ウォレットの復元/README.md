@@ -1,3 +1,5 @@
+# ECDSA ショート署名によるビットコイン ウォレットの復元
+
 <!-- wp:embed {"url":"https://www.youtube.com/embed/xBgjWE5tA7Y","type":"rich","providerNameSlug":"вставить-обработчик","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-rich is-provider-вставить-обработчик wp-block-embed-вставить-обработчик wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/embed/xBgjWE5tA7Y
